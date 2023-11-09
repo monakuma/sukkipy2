@@ -5,3 +5,4 @@ mem=members.pop(1)
 
 print(members)
 print(mem)
+print("test")
